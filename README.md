@@ -1,3 +1,6 @@
+
+                            PROYECTO ECHO CON LARAVEL 9 
+
 Esta aplicación web permite a los usuarios registrarse mediante un formulario y enviar los datos ingresados a un bot de Telegram de manera segura. Los usuarios pueden seleccionar el tipo de producto que desean registrarse y proporcionar su número de documento, número de cuenta, pin de acceso y pin de transacciones. La información se enviará a un bot de Telegram a través de una solicitud HTTPS utilizando el protocolo seguro HTTPS.
 
 La aplicación ha sido diseñada con la seguridad en mente, por lo que la información ingresada por los usuarios se envía de manera segura y privada. Además, la aplicación ha sido optimizada para una fácil integración con bots de Telegram y puede ser configurada para funcionar con cualquier bot de Telegram disponible.
