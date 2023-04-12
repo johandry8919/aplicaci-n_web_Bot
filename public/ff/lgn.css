@@ -1,0 +1,41 @@
+body {
+    background: rgba(0, 0, 0, 0.7) url('/img/air-blog.jpg') no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-blend-mode: darken;
+}
+
+.logo-ban {
+    vertical-align: middle;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.antialiased .botton{
+    cursor: pointer;
+}
+form {
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+.contenedorgenerico {
+    overflow: auto;
+    overflow-x: hidden;
+}
+
+element.style {
+    text-align: center;
+    padding-top: 5px;
+}
+
+element.style {
+    width: 340px;
+}
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
